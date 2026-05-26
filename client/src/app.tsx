@@ -162,7 +162,7 @@ export default function App() {
           ASO Audit Agent
         </div>
         <div style={{ fontSize: 13, color: "#666", marginTop: 2 }}>
-          App Store Optimization powered by Mastra + Claude
+          App Store Optimization powered by Mastra
         </div>
       </div>
 
