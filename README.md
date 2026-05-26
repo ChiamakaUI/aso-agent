@@ -2,6 +2,10 @@
 
 A TypeScript chat app that takes an Apple App Store URL and returns a full App Store Optimization audit. Built with the Mastra framework.
 
+## Demo
+
+[Watch the walkthrough →](https://youtu.be/WotS6MOXLfA?si=75NsgcIwtMXnI6L1)
+
 ## Setup
 
 ```bash
@@ -16,8 +20,9 @@ Open `http://localhost:3000` for the chat UI, or `http://localhost:4111` for the
 ## Keys required
 
 ```env
-ANTHROPIC_API_KEY=      # default provider
-FIRECRAWL_API_KEY=      # scrapes App Store listing pages
+FIRECRAWL_API_KEY=      # always required — scrapes App Store listing pages
+MODEL=                  # set your chosen model (see Switching models below)
+# + the API key for whichever provider you pick
 ```
 
 ## Switching models
