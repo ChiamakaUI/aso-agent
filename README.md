@@ -1,6 +1,6 @@
 # ASO Audit Agent
 
-A TypeScript chat app that takes an Apple App Store URL and returns a full App Store Optimization audit. Built with the Mastra framework.
+A TypeScript chat app that takes an Apple App Store URL and returns a full App Store Optimization (ASO) audit. Built with the Mastra framework.
 
 ## Demo
 
